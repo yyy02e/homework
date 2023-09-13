@@ -8,4 +8,4 @@ if x > z:
 if y > z:
     y, z = z, y
 
-print(x,y,z)
+print(x, y, z)
