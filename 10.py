@@ -6,4 +6,4 @@ for x in S:
 if num >= 1:
     print("Yes")
 else:
-    print("NO")
+    print("No")
