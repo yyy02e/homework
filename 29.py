@@ -10,7 +10,5 @@ def Monte_Method(a, b):
         result += f(i)
 
     return result / 1000000
-
-
 final = Monte_Method(2, 3)
 print("%.6f" % final)
