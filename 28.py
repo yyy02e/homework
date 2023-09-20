@@ -32,3 +32,4 @@ while 1/b > 0.000001:
     b += 2
 pi3 = sum*4
 print("%.10lf" % pi3)
+

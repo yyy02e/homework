@@ -17,3 +17,4 @@ def find_max_list(n):
             result.append(3)
     return result
 print(find_max_list(num))
+
