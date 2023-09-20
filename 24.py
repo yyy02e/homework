@@ -14,6 +14,5 @@ def binary_search(x):
             high = g
         g = (high + low) / 2.0
     return g
-
 n = 2.0
 print(binary_search(n))
