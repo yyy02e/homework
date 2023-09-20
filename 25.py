@@ -1,3 +1,4 @@
+#牛顿法
 def newton(x):
     min = 0.0000001
     guess = x/2

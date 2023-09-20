@@ -6,3 +6,4 @@ def newton(x):
         guess = guess - (((guess ** 2)-x) / (guess * 2))
     return guess
 print(newton(2))
+#有影响

@@ -1,3 +1,4 @@
+#二分查找根号二
 def binary_search(x):
     min = 0.00000001
     low = 0.0
@@ -13,5 +14,6 @@ def binary_search(x):
             high = g
         g = (high + low) / 2.0
     return g
+
 n = 2.0
 print(binary_search(n))
