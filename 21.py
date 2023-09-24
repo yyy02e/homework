@@ -17,3 +17,4 @@ def find_max_list(n):
             result.append(3)
     return result
 print(find_max_list(num))
+#（1）667个3（2）观察数列中只有2，3时乘积最大
