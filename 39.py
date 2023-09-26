@@ -7,4 +7,3 @@ for i in range(len(A)):
             x *= int(A[j])
     B.append(x)
 print(B)
-
