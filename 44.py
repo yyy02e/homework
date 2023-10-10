@@ -14,4 +14,4 @@ for i in range(0,8):
     a = int(input())
     nums.append(a)
 shellsort(nums)
-#平均时间复杂度为o(n^1.3)最差为O(n^2) 空间复杂度O(1)
+#平均时间复杂度为o(nlogn)最差为O(n^2) 空间复杂度O(1)
