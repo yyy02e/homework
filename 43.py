@@ -6,5 +6,6 @@ def insertion(array):
             cur -=1
         print(array)
     return array
+
 array = input().split()
 print(insertion(array))

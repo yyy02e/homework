@@ -7,3 +7,4 @@ if sum == 0 and a != 1:
     print(a,'是质数')
 else:
     print(a,'不是质数')
+
