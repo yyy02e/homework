@@ -7,5 +7,8 @@ def insertion(array):
         print(array)
     return array
 
-array = input().split()
+array = []
+for i in range(0,5):
+    a = int(input())
+    array.append(a)
 print(insertion(array))
