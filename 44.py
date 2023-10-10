@@ -14,3 +14,4 @@ for i in range(0,8):
     a = int(input())
     nums.append(a)
 shellsort(nums)
+#时间复杂度为o(n^1.5) 空间复杂度
